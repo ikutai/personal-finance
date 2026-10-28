@@ -1,0 +1,8 @@
+HOW TO: create the virtual enviornment
+python3 -m venv myenv
+
+HOW TO: activate the virtual enviornment
+source myenv/bin/activate
+
+HOW TO: deactivate the virutal enviormnet
+deactivate
